@@ -1,6 +1,15 @@
-# flutter_tube
+# Visualizador de Videos do Youtube (Flutter)
+Exemplo basico de BloC em Flutter.
 
-A new Flutter project.
+## O projeto
+Um projeto simples de visualização de vídeos do YouTube por meio do consumo de suas api's utilizando BloC.
+
+# Youtube Video Viewer (Flutter)
+Basic example of BloC in Flutter.
+
+## The project
+
+A simple project for viewing YouTube videos through the consumption of your api's using BloC.
 
 ## Getting Started
 
